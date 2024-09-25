@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+.container-image{
+	display: center;
+	justify-content:center;
+	align-items:center;
+}
+.hero-image{
+	object-fit:cover;
+}
+
+button{
+	background-color:red;
+	padding:7px;
+	border-radius:4px;
+	
+	
+}
+
